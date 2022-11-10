@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OutParatmetersTest
+namespace OutParametersTest
 {
     class Program
     {
